@@ -1,17 +1,17 @@
 
 
-names = ["kelly rowlan", "john doe", "james matt", "janet jackson"]
-count = len(names)
-first_names = []
-last_names = []
+#names = ["kelly rowlan", "john doe", "james matt", "janet jackson"]
+#count = len(names)
+#first_names = []
+#last_names = []
 
-def process_names (names):
-    for name in names:
-        first_names.append(name.split(' ')[0])
-        last_names.append(name.split(' ')[1])
+#def process_names (names):
+ #   for name in names:
+  #      first_names.append(name.split(' ')[0])
+   #     last_names.append(name.split(' ')[1])
 
-process_names(names)
-print(count, first_names, last_names)
+#process_names(names)
+#print(count, first_names, last_names)
 
 
 

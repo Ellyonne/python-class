@@ -17,6 +17,3 @@
 
 
 
-nop = ['john aruna', 'james tyler', 'jake hillson']
-
-print(nop)
